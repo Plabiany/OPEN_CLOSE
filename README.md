@@ -1,4 +1,4 @@
-Para executar o Docker da aplicação para fazer o clone do repositório em sua máquina local:
+Para executar o Docker da aplicação, basta fazer o clone do repositório em sua máquina local:
 
 Dentro da pasta do projeto executar o seguinte comando:
 
